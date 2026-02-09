@@ -1,0 +1,17 @@
+# Core Dependencies
+streamlit==1.31.0
+python-dotenv==1.0.0
+
+# HTTP Client
+httpx==0.26.0
+
+# OpenAI Agents SDK (adjust version as needed)
+# Install via: pip install git+https://github.com/openai/openai-agents-sdk.git
+# OR if available on PyPI:
+# openai-agents==0.1.0
+
+# Async Support
+nest-asyncio==1.5.8
+
+# Logging
+colorlog==6.8.0
